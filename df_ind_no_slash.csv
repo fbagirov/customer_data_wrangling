@@ -1,4 +1,4 @@
-,index,0
+,industry,total_score
 0,information technology and services,3.45
 1,internet,3.44
 2,construction,3.46
@@ -9,11 +9,11 @@
 7,search engines and internet portals,4.42
 8,media and internet,4.42
 9,health,2.45
-10, wellness and fitness,2.45
+10,wellness and fitness,2.45
 11,food and beverages,10.47
 12,internet,10.44
 13,health,3.43
-14, wellness and fitness,3.43
+14,wellness and fitness,3.43
 15,information services,10.47
 16,internet,3.4
 17,computer software,3.46
@@ -64,7 +64,7 @@
 62,computer software,10.47
 63,information technology and services,10.44
 64,internet service providers,4.42
-65, website hosting and internet-related services,4.42
+65,website hosting and internet-related services,4.42
 66,telecommunications,4.42
 67,custom software and technical consulting,4.42
 68,software development and design,4.42
@@ -92,7 +92,7 @@
 90,computer software,3.41
 91,computer software,3.44
 92,health,10.45
-93, wellness and fitness,10.45
+93,wellness and fitness,10.45
 94,computer software,10.46
 95,information technology and services,10.47
 96,internet,3.44
@@ -170,9 +170,8 @@
 168,education management,3.45
 169,information technology and services,3.45
 170,online media,3.45
-171,"
-biotechnology",10.47
-172,information technology ,4.46
+171,biotechnology,10.47
+172,information technology,4.46
 173,marketing and advertising,3.45
 174,financial services,3.46
 175,computer software,3.43
@@ -181,15 +180,14 @@ biotechnology",10.47
 178,commercial and residential construction,10.49
 179,construction,10.49
 180,internet,3.47
-181,"internet
-",10.63
+181,internet,10.63
 182,computer software,10.48
 183,financial services,3.47
 184,restaurants,3.44
 185,information technology and services,3.42
 186,computer software,3.46
 187,leisure,4.45
-188, travel and tourism,4.45
+188,travel and tourism,4.45
 189,computer software,10.48
 190,apparel and fashion,10.47
 191,financial services,10.37
@@ -212,7 +210,7 @@ biotechnology",10.47
 208,water and water treatment,3.45
 209,construction,3.45
 210,energy,3.45
-211, utilities and waste treatment,3.45
+211,utilities and waste treatment,3.45
 212,semiconductor and semiconductor equipment,3.45
 213,electronics,3.45
 214,investment banking,10.46
@@ -253,7 +251,7 @@ biotechnology",10.47
 249,information technology and services,10.5
 250,information technology and services,3.27
 251,health,10.48
-252, wellness and fitness,10.48
+252,wellness and fitness,10.48
 253,internet,10.49
 254,computer software,3.43
 255,computer software,3.44
@@ -273,30 +271,23 @@ biotechnology",10.47
 269,computer software,4.45
 270,internet,10.45
 271,computer networking,3.47
-272,"financial services
-",10.46
+272,financial services,10.46
 273,computer software,3.42
 274,internet,3.42
 275,computer software,3.45
-276,"government administration
-",10.47
+276,government administration,10.47
 277,leisure,3.14
-278," travel and tourism
-",3.14
+278,travel and tourism,3.14
 279,restaurants,10.46
 280,oil and energy,3.43
-281,"legal services
-",3.45
+281,legal services,3.45
 282,supermarkets,10.48
 283,internet,10.47
-284,"information technology and services
-",10.48
+284,information technology and services,10.48
 285,retail,10.48
-286,"computer games
-",10.46
+286,computer games,10.46
 287,internet,10.45
-288,"industrial automation
-",3.38
+288,industrial automation,3.38
 289,internet,3.79
 290,software development and design,4.35
 291,software,4.35
@@ -304,35 +295,27 @@ biotechnology",10.47
 293,business intelligence software(bi),4.35
 294,enterprise resource planning software(erp),4.35
 295,information technology and services,3.37
-296,"information technology and services
-",10.5
+296,information technology and services,10.5
 297,music,10.47
 298,computer software,3.41
-299,"information technology and services
-",3.46
-300,"online media
-",10.46
+299,information technology and services,3.46
+300,online media,10.46
 301,internet,3.45
 302,telecommunications,3.43
 303,internet,3.44
-304,"information technology and services
-",3.48
+304,information technology and services,3.48
 305,internet,10.34
 306,internet,3.43
 307,accounting,3.44
 308,finance,10.44
 309,accounting and accounting services,10.44
 310,business services,10.44
-311,"marketing and advertising
-",10.48
-312,"information services
-",3.41
+311,marketing and advertising,10.48
+312,information services,3.41
 313,health,10.47
-314," wellness and fitness
-",10.47
+314,wellness and fitness,10.47
 315,leisure,10.49
-316," travel and tourism
-",10.49
+316,travel and tourism,10.49
 317,financial services,10.43
 318,insurance,10.37
 319,internet,3.43
@@ -340,25 +323,20 @@ biotechnology",10.47
 321,computer software,3.47
 322,internet,3.19
 323,health,3.46
-324," wellness and fitness
-",3.46
+324,wellness and fitness,3.46
 325,internet,10.94
 326,printing,3.48
-327,"primary/secondary education
-",3.43
-328,"computer software
-",10.47
-329,"education management
-",3.21
-330,"information technology and services
-",3.43
+327,primary/secondary education,3.43
+328,computer software,10.47
+329,education management,3.21
+330,information technology and services,3.43
 331,software development and design,10.45
 332,software,10.45
 333,engineering software,10.45
 334,business intelligence software(bi),10.45
 335,enterprise resource planning software(erp),10.45
 336,health,8.48
-337, wellness and fitness,8.48
+337,wellness and fitness,8.48
 338,textiles and apparel,2.44
 339,sporting goods,2.44
 340,consumer goods,2.44
@@ -369,7 +347,7 @@ biotechnology",10.47
 345,retail,2.44
 346,internet,4.42
 347,leisure,2.54
-348, travel and tourism,2.54
+348,travel and tourism,2.54
 349,information technology and services,2.44
 350,hospital and health care,10.47
 351,higher education,4.48
@@ -385,7 +363,7 @@ biotechnology",10.47
 361,engineering software,8.49
 362,international trade and development,2.46
 363,airlines,4.41
-364, airports and air services,4.41
+364,airports and air services,4.41
 365,transportation,4.41
 366,computer software,4.48
 367,information technology and services,4.48
@@ -398,7 +376,7 @@ biotechnology",10.47
 374,information and document management,2.46
 375,business services,2.46
 376,health,2.46
-377, wellness and fitness,2.46
+377,wellness and fitness,2.46
 378,hospital and health care,2.4
 379,software development and design,2.46
 380,software,2.46
@@ -406,9 +384,9 @@ biotechnology",10.47
 382,business intelligence software(bi),2.46
 383,enterprise resource planning software(erp),2.46
 384,leisure,3.47
-385, travel and tourism,3.47
+385,travel and tourism,3.47
 386,airlines,3.47
-387, airports and air services,3.47
+387,airports and air services,3.47
 388,transportation,3.47
 389,human resources,4.47
 390,information technology and services,4.45
@@ -423,7 +401,7 @@ biotechnology",10.47
 399,test and measurement equipment,2.4
 400,manufacturing,2.4
 401,energy,2.4
-402, utilities and waste treatment,2.4
+402,utilities and waste treatment,2.4
 403,information technology and services,8.43
 404,internet,8.5
 405,internet,2.46
@@ -432,7 +410,7 @@ biotechnology",10.47
 408,software development and design,2.49
 409,software,2.49
 410,financial,2.49
-411, legal and hr software,2.49
+411,legal and hr software,2.49
 412,internet,4.48
 413,computer games,3.46
 414,marketing and advertising,8.45
@@ -497,7 +475,7 @@ biotechnology",10.47
 473,computer equipment and peripherals,7.44
 474,telecommunications,7.44
 475,internet service providers,7.44
-476, website hosting and internet-related services,7.44
+476,website hosting and internet-related services,7.44
 477,automotive,3.4
 478,financial services,4.37
 479,call centers and business centers,10.47
@@ -521,16 +499,16 @@ biotechnology",10.47
 497,financial services,4.41
 498,petrochemicals,3.43
 499,chemicals,3.43
-500, petrochemicals,3.43
-501, glass and gases,3.43
+500,petrochemicals,3.43
+501,glass and gases,3.43
 502,manufacturing,3.43
 503,electricity,3.43
-504, oil and gas,3.43
+504,oil and gas,3.43
 505,energy,3.43
-506, utilities and waste treatment,3.43
+506,utilities and waste treatment,3.43
 507,chemicals,3.43
 508,gas stations,3.43
-509, convenience and liquor stores,3.43
+509,convenience and liquor stores,3.43
 510,retail,3.43
 511,design,3.47
 512,information technology and services,2.45
@@ -546,7 +524,7 @@ biotechnology",10.47
 522,telecommunications,3.47
 523,telecommunications,3.45
 524,flowers,10.41
-525, gifts and specialty,10.41
+525,gifts and specialty,10.41
 526,retail,10.41
 527,computer software,3.45
 528,financial services,2.45
@@ -570,7 +548,7 @@ biotechnology",10.47
 546,media and internet,10.46
 547,marketing and advertising,3.46
 548,health,3.46
-549, wellness and fitness,3.46
+549,wellness and fitness,3.46
 550,medical devices,3.44
 551,software development and design,4.45
 552,software,4.45
@@ -591,7 +569,7 @@ biotechnology",10.47
 567,internet,3.47
 568,online media,3.44
 569,health,2.44
-570, wellness and fitness,2.44
+570,wellness and fitness,2.44
 571,computer software,7.46
 572,information technology and services,10.48
 573,computer software,2.44
@@ -677,7 +655,7 @@ biotechnology",10.47
 653,business supplies and equipment,3.45
 654,computer software,3.48
 655,health,3.47
-656, wellness and fitness,3.47
+656,wellness and fitness,3.47
 657,computer software,3.47
 658,telecommunications,4.47
 659,higher education,10.41
@@ -704,7 +682,7 @@ biotechnology",10.47
 680,information collection and delivery,4.52
 681,media and internet,4.52
 682,internet service providers,4.52
-683, website hosting and internet-related services,4.52
+683,website hosting and internet-related services,4.52
 684,publishing,4.52
 685,software,4.52
 686,telecommunications,4.52
@@ -752,7 +730,7 @@ biotechnology",10.47
 728,computer software,2.46
 729,computer software,4.48
 730,health,4.47
-731, wellness and fitness,4.47
+731,wellness and fitness,4.47
 732,construction,4.6
 733,computer software,4.47
 734,retail,4.67
@@ -822,7 +800,7 @@ biotechnology",10.47
 798,software,4.48
 799,engineering software,4.48
 800,financial,4.48
-801, legal and hr software,4.48
+801,legal and hr software,4.48
 802,software development and design,4.46
 803,software,4.46
 804,custom software and technical consulting,4.46
@@ -902,7 +880,7 @@ biotechnology",10.47
 878,software,2.45
 879,engineering software,2.45
 880,financial,2.45
-881, legal and hr software,2.45
+881,legal and hr software,2.45
 882,enterprise resource planning software(erp),2.45
 883,customer relationship management software(crm),2.45
 884,business intelligence software(bi),2.45
@@ -924,14 +902,14 @@ biotechnology",10.47
 900,power conversion and protection equipment,9.46
 901,consumer goods,9.46
 902,batteries,9.46
-903, power storage equipment and generators,9.46
+903,power storage equipment and generators,9.46
 904,management consulting,9.46
 905,waste treatment,9.46
-906, environmental services and recycling,9.46
+906,environmental services and recycling,9.46
 907,hospitals and clinics,9.46
 908,business services,9.46
 909,energy,9.46
-910, utilities and waste treatment,9.46
+910,utilities and waste treatment,9.46
 911,healthcare,9.46
 912,aerospace and defense,2.45
 913,manufacturing,2.45
@@ -949,11 +927,11 @@ biotechnology",10.47
 925,business services,2.4
 926,information technology and services,3.39
 927,leisure,4.46
-928, travel and tourism,4.46
+928,travel and tourism,4.46
 929,software development and design,2.45
 930,software,2.45
 931,financial,2.45
-932, legal and hr software,2.45
+932,legal and hr software,2.45
 933,internet,3.45
 934,computer software,4.45
 935,business supplies and equipment,2.46
@@ -981,63 +959,44 @@ biotechnology",10.47
 957,marketing and advertising,10.5
 958,internet,3.45
 959,leisure,10.45
-960, travel and tourism,10.45
+960,travel and tourism,10.45
 961,education management,10.49
 962,entertainment,10.47
 963,computer software,10.47
 964,computer software,3.45
 965,internet,3.4
-966,"e-learning
-",10.47
+966,e-learning,10.47
 967,information technology and services,3.45
 968,marketing and advertising,3.45
 969,information technology and services,10.45
 970,higher education,3.42
 971,computer software,10.41
 972,consumer electronics,3.41
-973, analytics,10.47
-974,"financial services
-",10.47
-975,"computer software
-",3.47
+973,analytics,10.47
+974,financial services,10.47
+975,computer software,3.47
 976,consumer electronics,10.52
 977,internet,10.47
-978,"oil and energy
-",3.42
+978,oil and energy,3.42
 979,sports,3.11
-980,"human resources
-",3.42
-981,"computer software
-",10.47
-982,"information technology and services
-",10.46
-983,"government administration
-",3.44
-984,"hospitality
-",10.48
-985,"information technology and services
-",3.28
-986,"civic and social organization
-",3.44
-987,"computer software
-",3.43
+980,human resources,3.42
+981,computer software,10.47
+982,information technology and services,10.46
+983,government administration,3.44
+984,hospitality,10.48
+985,information technology and services,3.28
+986,civic and social organization,3.44
+987,computer software,3.43
 988,internet,10.47
-989,"information technology and services
-",3.45
-990,"information technology and services
-",3.44
-991,"information technology and services
-",3.43
+989,information technology and services,3.45
+990,information technology and services,3.44
+991,information technology and services,3.43
 992,computer software,3.47
-993,"information technology and services
-",10.5
-994,"computer software
-",10.47
+993,information technology and services,10.5
+994,computer software,10.47
 995,internet,3.45
-996,"education management
-",3.46
-997,"hospital and health care
-",3.45
+996,education management,3.46
+997,hospital and health care,3.45
 998,real estate,10.44
 999,internet,10.47
 1000,construction,10.47
@@ -1046,12 +1005,9 @@ biotechnology",10.47
 1003,engineering software,4.42
 1004,business intelligence software(bi),4.42
 1005,enterprise resource planning software(erp),4.42
-1006,"information services
-",10.46
-1007,"transportation/trucking/railroad
-",3.43
-1008,"education management
-",10.49
+1006,information services,10.46
+1007,transportation/trucking/railroad,3.43
+1008,education management,10.49
 1009,internet,10.47
 1010,accounting,3.45
 1011,human resources and staffing,3.45
@@ -1059,36 +1015,27 @@ biotechnology",10.47
 1013,software development and design,3.45
 1014,software,3.45
 1015,engineering software,3.45
-1016,"information technology and services
-",3.43
+1016,information technology and services,3.43
 1017,marketing and advertising,3.38
-1018,"staffing and recruiting
-",3.45
-1019,"human resources
-",10.45
+1018,staffing and recruiting,3.45
+1019,human resources,10.45
 1020,staffing and recruiting,2.46
 1021,search engine,10.46
 1022,printing,4.41
 1023,publishing,10.47
 1024,information technology and services,3.41
-1025,"marketing and advertising
-",3.44
+1025,marketing and advertising,3.44
 1026,music,3.45
-1027,"nonprofit organization management
-",10.45
-1028,"education management
-",3.28
-1029,"consumer services
-",3.45
+1027,nonprofit organization management,10.45
+1028,education management,3.28
+1029,consumer services,3.45
 1030,internet,10.47
-1031,"consumer services
-",10.47
+1031,consumer services,10.47
 1032,engineering software,10.47
 1033,software development and design,10.47
 1034,software,10.47
 1035,retail software,10.47
-1036,"online media
-",3.22
+1036,online media,3.22
 1037,internet,3.38
 1038,nonprofit organization management,10.46
 1039,computer software,10.45
@@ -1102,7 +1049,7 @@ biotechnology",10.47
 1047,software,3.43
 1048,human resources,3.45
 1049,health,10.51
-1050, wellness and fitness,10.51
+1050,wellness and fitness,10.51
 1051,government administration,10.44
 1052,internet,3.29
 1053,greater pittsburgh area,10.49
@@ -1112,8 +1059,7 @@ biotechnology",10.47
 1057,information technology and services,10.48
 1058,computer software,2.46
 1059,education management,10.47
-1060,"entertainment
-",10.5
+1060,entertainment,10.5
 1061,internet,3.46
 1062,computer software,3.44
 1063,information technology and services,10.43
@@ -1132,8 +1078,7 @@ biotechnology",10.47
 1076,software development and design,3.47
 1077,software,3.47
 1078,telecommunications,3.47
-1079,"
-broadcast media",10.48
+1079,broadcast media,10.48
 1080,printing,10.48
 1081,computer software,10.46
 1082,hospital and health care,10.47
@@ -1143,7 +1088,7 @@ broadcast media",10.48
 1086,software development and design,3.37
 1087,software,3.37
 1088,financial,3.37
-1089, legal and hr software,3.37
+1089,legal and hr software,3.37
 1090,accounting and accounting services,3.37
 1091,business services,3.37
 1092,engineering software,3.37
@@ -1164,8 +1109,7 @@ broadcast media",10.48
 1107,internet,10.49
 1108,infomation tehnologies and services,10.47
 1109,leisure,10.48
-1110," travel and tourism
-",10.48
+1110,travel and tourism,10.48
 1111,entertainment,10.47
 1112,staffing and recruiting,10.46
 1113,information technology and services,10.47
@@ -1264,14 +1208,14 @@ broadcast media",10.48
 1206,marketing and advertising,10.47
 1207,food and beverages,10.48
 1208,food,10.48
-1209, beverages and tobacco,10.48
+1209,beverages and tobacco,10.48
 1210,manufacturing,10.48
 1211,music and music related services,10.48
 1212,media and internet,10.48
 1213,computer software,4.45
 1214,computer software,10.49
 1215,health,2.45
-1216, wellness and fitness,2.45
+1216,wellness and fitness,2.45
 1217,computer software,10.5
 1218,telecommunications,10.45
 1219,internet,3.48
@@ -1295,17 +1239,13 @@ broadcast media",10.48
 1237,internet,3.44
 1238,management consulting,3.47
 1239,marketing and advertising,10.47
-1240,"civic and social organization
-",10.47
+1240,civic and social organization,10.47
 1241,venture capital and private equity,3.55
 1242,internet,10.48
-1243,"oil and energy
-",3.46
-1244,"marketing and advertising
-",3.36
+1243,oil and energy,3.46
+1244,marketing and advertising,3.36
 1245,publishing,10.48
-1246,"information technology and services
-",3.46
+1246,information technology and services,3.46
 1247,oil and energy,10.48
 1248,staffing and recruiting,10.46
 1249,hospitality,10.47
@@ -1313,11 +1253,9 @@ broadcast media",10.48
 1251,textiles,10.48
 1252,farming,3.42
 1253,e-learning,3.45
-1254,"sporting goods
-",10.46
+1254,sporting goods,10.46
 1255,media production,10.47
-1256,"marketing and advertising
-",10.47
+1256,marketing and advertising,10.47
 1257,computer games,10.39
 1258,computer software,3.48
 1259,internet,10.43
@@ -1333,15 +1271,12 @@ broadcast media",10.48
 1269,real estate,10.52
 1270,human resources,10.48
 1271,leisure,10.47
-1272, travel and tourism,10.47
-1273,"information services
-",3.47
+1272,travel and tourism,10.47
+1273,information services,3.47
 1274,computer software,3.51
-1275,"wine and spirits
-",3.46
+1275,wine and spirits,3.46
 1276,internet,3.42
-1277,"computer software
-",10.48
+1277,computer software,10.48
 1278,internet,10.47
 1279,consumer electronics,3.39
 1280,information technology and services,2.44
@@ -1351,21 +1286,15 @@ broadcast media",10.48
 1284,human resources and staffing,2.44
 1285,business services,2.44
 1286,information technology and services,3.45
-1287,"financial services
-",10.47
-1288,"information technology and services
-",10.43
+1287,financial services,10.47
+1288,information technology and services,10.43
 1289,printing,10.46
 1290,outsourcing/offshoring,10.43
-1291,"renewables and environment
-",3.45
-1292,"management consulting
-",3.44
-1293,"marketing and advertising
-",10.47
+1291,renewables and environment,3.45
+1292,management consulting,3.44
+1293,marketing and advertising,10.47
 1294,computer software,3.47
-1295,"nonprofit organization management
-",3.43
+1295,nonprofit organization management,3.43
 1296,information technology and services,3.42
 1297,electrical/electronic manufacturing,3.44
 1298,software development and design,3.46
@@ -1377,27 +1306,22 @@ broadcast media",10.48
 1304,computer software,3.41
 1305,computer software,10.42
 1306,retail,3.45
-1307,"computer software
-",10.47
+1307,computer software,10.47
 1308,computer software,4.44
 1309,online media,2.46
-1310,"marketing and advertising
-",3.42
+1310,marketing and advertising,3.42
 1311,e-learning,4.39
-1312,"computer software
-",2.44
+1312,computer software,2.44
 1313,internet,10.47
 1314,broadcast media,10.46
 1315,computer games,10.5
-1316,"food and beverages
-",10.48
+1316,food and beverages,10.48
 1317,machinery,2.47
 1318,computer software,10.5
 1319,market research,3.38
 1320,airlines/aviation,3.44
 1321,information services,10.44
-1322,"medical practice
-",3.43
+1322,medical practice,3.43
 1323,religious institutions,10.43
 1324,software development and design,10.48
 1325,software,10.48
@@ -1415,23 +1339,21 @@ broadcast media",10.48
 1337,information technology and services,3.45
 1338,marketing and advertising,3.38
 1339,leisure,3.41
-1340, travel and tourism,3.41
+1340,travel and tourism,3.41
 1341,computer software,10.54
 1342,apparel and fashion,10.47
 1343,computer software,3.45
 1344,software development and design,4.38
 1345,software,4.38
 1346,computer software,10.43
-1347,"oil and energy
-",10.47
+1347,oil and energy,10.47
 1348,publishing,2.41
 1349,media and internet,2.41
 1350,computer software,10.47
 1351,marketing and advertising,3.43
 1352,professional training and coaching,10.47
 1353,construction,10.46
-1354,"consumer services
-",10.46
+1354,consumer services,10.46
 1355,internet,10.43
 1356,information technology and services,10.46
 1357,legal services,10.45
@@ -1458,7 +1380,7 @@ broadcast media",10.48
 1378,greater boston area,10.35
 1379,information technology and services,10.48
 1380,providence,10.24
-1381, rhode island area,10.24
+1381,rhode island area,10.24
 1382,entertainment,3.45
 1383,custom software and technical consulting,10.47
 1384,software,10.47
@@ -1474,8 +1396,7 @@ broadcast media",10.48
 1394,internet,10.47
 1395,nonprofit organization management,3.45
 1396,internet,3.44
-1397,"internet
-",3.48
+1397,internet,3.48
 1398,biotechnology,10.47
 1399,computer software,4.47
 1400,marketing and advertising,10.47
@@ -1498,7 +1419,7 @@ broadcast media",10.48
 1417,accounting,3.35
 1418,sports,10.48
 1419,health,10.48
-1420, wellness and fitness,10.48
+1420,wellness and fitness,10.48
 1421,e-learning,10.48
 1422,hospital and health care,10.47
 1423,computer software,3.47
@@ -1519,8 +1440,7 @@ broadcast media",10.48
 1438,hospitality,2.42
 1439,computer software,10.48
 1440,computer software,10.52
-1441,"consumer services
-",10.47
+1441,consumer services,10.47
 1442,training,3.47
 1443,education,3.47
 1444,colleges and universities,3.47
@@ -1569,7 +1489,7 @@ broadcast media",10.48
 1487,business services,3.39
 1488,wineries and breweries,3.39
 1489,food,3.39
-1490, beverages and tobacco,3.39
+1490,beverages and tobacco,3.39
 1491,manufacturing,3.39
 1492,computer software,10.47
 1493,veterinary,10.47
@@ -1590,13 +1510,13 @@ broadcast media",10.48
 1508,computer software,3.44
 1509,business supplies and equipment,4.43
 1510,health,10.47
-1511, wellness and fitness,10.47
+1511,wellness and fitness,10.47
 1512,consumer goods,3.47
 1513,retail,10.47
 1514,health products,3.44
 1515,information technology and services,10.47
 1516,health,10.48
-1517, wellness and fitness,10.48
+1517,wellness and fitness,10.48
 1518,insurance,10.46
 1519,computer software,10.48
 1520,internet,10.5
@@ -1620,7 +1540,7 @@ broadcast media",10.48
 1538,computer software,3.4
 1539,computer software,10.46
 1540,health,10.47
-1541, wellness and fitness,10.47
+1541,wellness and fitness,10.47
 1542,internet,3.45
 1543,information technology and services,10.45
 1544,computer software,10.48
@@ -1636,7 +1556,7 @@ broadcast media",10.48
 1554,publishing,3.43
 1555,e-learning,10.47
 1556,health,3.43
-1557, wellness and fitness,3.43
+1557,wellness and fitness,3.43
 1558,internet,4.45
 1559,internet,3.44
 1560,accounting and accounting services,4.45
@@ -1705,31 +1625,23 @@ broadcast media",10.48
 1623,computer software,10.47
 1624,financial services,3.39
 1625,furniture,3.46
-1626,"information technology and services
-",3.43
-1627,"information technology and services
-",3.42
+1626,information technology and services,3.43
+1627,information technology and services,3.42
 1628,marketing and advertising,3.44
-1629,"computer software
-",10.48
+1629,computer software,10.48
 1630,real estate,10.47
-1631,"education management
-",10.47
-1632,"computer software
-",10.46
+1631,education management,10.47
+1632,computer software,10.46
 1633,higher education,10.45
 1634,consumer electronics,3.46
 1635,computer software,10.47
-1636,"market research
-",3.47
+1636,market research,3.47
 1637,online media,3.42
 1638,computer software,10.56
-1639,"government administration
-",3.43
+1639,government administration,3.43
 1640,telemunication,10.48
 1641,health,10.45
-1642," wellness and fitness
-",10.45
+1642,wellness and fitness,10.45
 1643,international trade and development,3.48
 1644,computer software,2.47
 1645,broadcast media,2.45
@@ -1741,7 +1653,7 @@ broadcast media",10.48
 1651,retail,3.46
 1652,food and beverages,3.46
 1653,food,3.46
-1654, beverages and tobacco,3.46
+1654,beverages and tobacco,3.46
 1655,manufacturing,3.46
 1656,information technology and services,3.47
 1657,international trade and development,10.47
@@ -1769,8 +1681,7 @@ broadcast media",10.48
 1679,information technology and services,10.47
 1680,internet,10.42
 1681,computer software,3.44
-1682,"information technology and services
-",10.48
+1682,information technology and services,10.48
 1683,internet,10.48
 1684,information technology and services,10.46
 1685,internet,10.45
@@ -1780,16 +1691,13 @@ broadcast media",10.48
 1689,computer software,10.46
 1690,retail,3.45
 1691,internet,10.47
-1692,"computer software
-",3.45
+1692,computer software,3.45
 1693,computer software,3.45
-1694,"human resources
-",10.48
+1694,human resources,10.48
 1695,computer software,3.45
 1696,nformation technology and services,3.45
 1697,music,10.47
-1698,"computer software
-",10.47
+1698,computer software,10.47
 1699,information technology and services,10.47
 1700,financial services,4.44
 1701,software development and design,2.47
@@ -1798,7 +1706,7 @@ broadcast media",10.48
 1704,electronics,2.47
 1705,manufacturing,2.47
 1706,batteries,2.47
-1707, power storage equipment and generators,2.47
+1707,power storage equipment and generators,2.47
 1708,electronic components,2.47
 1709,boats and submarines,2.47
 1710,industrial machinery and equipment,2.47
@@ -1865,7 +1773,7 @@ broadcast media",10.48
 1771,custom software and technical consulting,3.4
 1772,healthcare software,3.4
 1773,financial,3.4
-1774, legal and hr software,3.4
+1774,legal and hr software,3.4
 1775,information technology and services,3.41
 1776,human resources and staffing,10.5
 1777,business services,10.5
@@ -1898,7 +1806,7 @@ broadcast media",10.48
 1804,accounting and accounting services,3.44
 1805,business services,3.44
 1806,financial,3.44
-1807, legal and hr software,3.44
+1807,legal and hr software,3.44
 1808,computer software,2.43
 1809,education management,4.4
 1810,computer software,3.47
@@ -1910,7 +1818,7 @@ broadcast media",10.48
 1816,internet,10.53
 1817,nonprofit organization management,3.46
 1818,health,3.48
-1819, wellness and fitness,3.48
+1819,wellness and fitness,3.48
 1820,insurance,2.43
 1821,financial services,4.36
 1822,medical testing and clinical laboratories,3.47
@@ -1985,9 +1893,8 @@ broadcast media",10.48
 1891,gambling and casinos,3.46
 1892,information technology and services,10.48
 1893,leisure,10.42
-1894, travel and tourism,10.42
-1895,"computer software
-",3.45
+1894,travel and tourism,10.42
+1895,computer software,3.45
 1896,higher education,10.46
 1897,computer software,3.44
 1898,international affairs,10.47
@@ -2075,9 +1982,9 @@ broadcast media",10.48
 1980,finance,5.4
 1981,investment banking,5.4
 1982,electricity,10.45
-1983, oil and gas,10.45
+1983,oil and gas,10.45
 1984,energy,10.45
-1985, utilities and waste treatment,10.45
+1985,utilities and waste treatment,10.45
 1986,financial services,10.43
 1987,universities,3.42
 1988,computer software,4.43
@@ -2154,7 +2061,7 @@ broadcast media",10.48
 2059,custom software and technical consulting,10.47
 2060,software,10.47
 2061,health,2.45
-2062, wellness and fitness,2.45
+2062,wellness and fitness,2.45
 2063,internet,4.51
 2064,software development and design,8.47
 2065,software,8.47
@@ -2165,7 +2072,7 @@ broadcast media",10.48
 2070,information technology and services,10.48
 2071,computer software,7.26
 2072,renewables and environment,3.47
-2073, ,3.45
+2073,,3.45
 2074,writing and editing,10.47
 2075,marketing and advertising,3.47
 2076,information technology and services,3.43
@@ -2174,7 +2081,7 @@ broadcast media",10.48
 2079,charitable organizations and foundations,3.41
 2080,organizations,3.41
 2081,lifestyle,3.43
-2082, apps,3.43
+2082,apps,3.43
 2083,computer software,10.48
 2084,computer networking,10.49
 2085,internet,10.47
@@ -2249,9 +2156,9 @@ broadcast media",10.48
 2154,electrical/electronic manufacturing,2.42
 2155,computer software,10.43
 2156,media production,3.31
-2157, e-commerce,4.45
-2158, b2c,4.45
-2159, government,4.45
+2157,e-commerce,4.45
+2158,b2c,4.45
+2159,government,4.45
 2160,prosperworks inc.        symphony commerce inc,3.45
 2161,information services,3.45
 2162,computer software,4.47
@@ -2287,8 +2194,7 @@ broadcast media",10.48
 2192,computer software,10.48
 2193,internet,3.43
 2194,computer software,3.45
-2195,"marketing and advertising
-",10.47
+2195,marketing and advertising,10.47
 2196,printing,10.46
 2197,information technology and services,10.39
 2198,e-learning,3.42
@@ -2344,7 +2250,7 @@ broadcast media",10.48
 2248,marketing and advertising,10.48
 2249,computer software,4.47
 2250,health,4.45
-2251, wellness and fitness,4.45
+2251,wellness and fitness,4.45
 2252,information technology and services,3.45
 2253,computer software,3.47
 2254,computer software,3.47
@@ -2360,7 +2266,7 @@ broadcast media",10.48
 2264,marketing and advertising,3.45
 2265,insurance,2.45
 2266,airlines,3.49
-2267, airports and air services,3.49
+2267,airports and air services,3.49
 2268,transportation,3.49
 2269,information technology and services,3.47
 2270,farming,2.45
@@ -2412,8 +2318,7 @@ broadcast media",10.48
 2316,computer software,10.47
 2317,internet,10.45
 2318,computer software,10.46
-2319,"computer software
-",3.46
+2319,computer software,3.46
 2320,management consulting,10.48
 2321,broadcast media,10.49
 2322,internet,3.45
@@ -2427,7 +2332,7 @@ broadcast media",10.48
 2330,internet,10.48
 2331,information technology and services,3.3
 2332,leisure,10.47
-2333, travel and tourism,10.47
+2333,travel and tourism,10.47
 2334,computer software,10.47
 2335,financial services,3.46
 2336,information technology and services,10.46
@@ -2466,8 +2371,7 @@ broadcast media",10.48
 2369,internet,2.43
 2370,internet,3.42
 2371,computer software,3.43
-2372,"computer software
-",3.44
+2372,computer software,3.44
 2373,computer software,3.43
 2374,information technology and services,10.45
 2375,internet,3.44
@@ -2495,16 +2399,15 @@ broadcast media",10.48
 2397,human resources,3.45
 2398,computer software,3.47
 2399,saas,3.43
-2400, software,3.43
-2401,"information technology and services
-",10.38
+2400,software,3.43
+2401,information technology and services,10.38
 2402,manufacturing,10.44
 2403,telecommunication equipment,10.44
 2404,computer networking equipment,10.44
 2405,computer equipment and peripherals,10.44
 2406,telecommunications,10.44
 2407,internet service providers,10.44
-2408, website hosting and internet-related services,10.44
+2408,website hosting and internet-related services,10.44
 2409,archetechand planning,3.43
 2410,computer hardware,10.45
 2411,computer software,10.44
@@ -2516,8 +2419,8 @@ broadcast media",10.48
 2417,international trade and development,10.48
 2418,financial services,3.48
 2419,health care,3.47
-2420, advertising,3.47
-2421, life science,3.47
+2420,advertising,3.47
+2421,life science,3.47
 2422,retail,3.46
 2423,internet,10.47
 2424,internet,3.42
@@ -2563,7 +2466,7 @@ broadcast media",10.48
 2464,consumer electronics,3.45
 2465,information technology and services,2.47
 2466,health,10.49
-2467, wellness and fitness,10.49
+2467,wellness and fitness,10.49
 2468,computer software,3.48
 2469,research,10.46
 2470,biotechnology,2.42
@@ -2572,8 +2475,7 @@ broadcast media",10.48
 2473,software development and design,10.46
 2474,software,10.46
 2475,telecommunications,10.46
-2476,"
-financial services",4.47
+2476,financial services,4.47
 2477,computer software,3.34
 2478,software development and design,3.43
 2479,software,3.43
@@ -2613,8 +2515,8 @@ financial services",4.47
 2513,manufacturing,3.43
 2514,household goods,3.43
 2515,miscellaneous building materials - flooring,3.43
-2516, cabinets,3.43
-2517, etc.,3.43
+2516,cabinets,3.43
+2517,etc.,3.43
 2518,building materials,3.43
 2519,consumer goods,3.43
 2520,metals and minerals,3.43
@@ -2655,7 +2557,7 @@ financial services",4.47
 2555,software development and design,3.47
 2556,software,3.47
 2557,financial,3.47
-2558, legal and hr software,3.47
+2558,legal and hr software,3.47
 2559,accounting and accounting services,3.47
 2560,business services,3.47
 2561,engineering software,3.47
@@ -2669,7 +2571,7 @@ financial services",4.47
 2569,media production,10.45
 2570,wineries and breweries,3.44
 2571,food,3.44
-2572, beverages and tobacco,3.44
+2572,beverages and tobacco,3.44
 2573,manufacturing,3.44
 2574,internet,10.45
 2575,software development and design,3.44
@@ -2705,8 +2607,7 @@ financial services",4.47
 2605,industrial automation,10.47
 2606,information technology and services,3.45
 2607,computer software,10.44
-2608,"marketing and advertising
-",10.47
+2608,marketing and advertising,10.47
 2609,internet,10.47
 2610,apparel and fashion,3.45
 2611,software development and design,3.48
@@ -2725,7 +2626,7 @@ financial services",4.47
 2624,software development and design,3.38
 2625,software,3.38
 2626,financial,3.38
-2627, legal and hr software,3.38
+2627,legal and hr software,3.38
 2628,engineering software,3.38
 2629,marketing and advertising,3.44
 2630,software development and design,10.45
@@ -2750,7 +2651,7 @@ financial services",4.47
 2649,universities,3.45
 2650,computer software,4.48
 2651,health,3.44
-2652, wellness and fitness,3.44
+2652,wellness and fitness,3.44
 2653,retail,3.47
 2654,internet,3.48
 2655,software development and design,3.46
@@ -2761,7 +2662,7 @@ financial services",4.47
 2660,media and internet,3.56
 2661,design,10.46
 2662,airlines,2.47
-2663, airports and air services,2.47
+2663,airports and air services,2.47
 2664,transportation,2.47
 2665,computer software,10.23
 2666,financial services,10.47
@@ -2798,7 +2699,7 @@ financial services",4.47
 2697,information technology and services,10.49
 2698,internet,3.49
 2699,jive communications,10.44
-2700, inc,10.44
+2700,inc,10.44
 2701,computer software,3.47
 2702,custom software and technical consulting,3.47
 2703,software,3.47
@@ -2843,7 +2744,7 @@ financial services",4.47
 2742,retail,3.75
 2743,marketing and advertising,3.37
 2744,health,10.47
-2745, wellness and fitness,10.47
+2745,wellness and fitness,10.47
 2746,internet,3.4
 2747,financial services,10.47
 2748,marketing and advertising,3.42
@@ -2890,7 +2791,7 @@ financial services",4.47
 2789,computer software,3.44
 2790,colleges and universities,10.48
 2791,education,10.48
-2792,application software ,2.46
+2792,application software,2.46
 2793,software development and design,10.42
 2794,software,10.42
 2795,search engines and internet portals,10.42
@@ -2950,8 +2851,7 @@ financial services",4.47
 2849,market research,10.46
 2850,information technology and services,10.51
 2851,computer software,3.44
-2852,"internet
-",10.48
+2852,internet,10.48
 2853,sports teams and leagues,3.45
 2854,hospitality,3.45
 2855,internet,3.44
@@ -2996,8 +2896,7 @@ financial services",4.47
 2894,entertainment,3.46
 2895,biotechnology,10.39
 2896,media production,10.47
-2897,"computer software
-",10.47
+2897,computer software,10.47
 2898,software development and design,3.43
 2899,software,3.43
 2900,engineering software,3.43
@@ -3014,7 +2913,7 @@ financial services",4.47
 2911,computer equipment and peripherals,3.47
 2912,telecommunications,3.47
 2913,internet service providers,3.47
-2914, website hosting and internet-related services,3.47
+2914,website hosting and internet-related services,3.47
 2915,internet,10.48
 2916,computer software,10.48
 2917,financial services,3.43
@@ -3077,9 +2976,9 @@ financial services",4.47
 2974,information technologies and services,3.43
 2975,environmental services,3.48
 2976,electricity,10.42
-2977, oil and gas,10.42
+2977,oil and gas,10.42
 2978,energy,10.42
-2979, utilities and waste treatment,10.42
+2979,utilities and waste treatment,10.42
 2980,oil and energy,3.41
 2981,computer software,2.46
 2982,computer software,4.47
@@ -3129,8 +3028,8 @@ financial services",4.47
 3026,computer and network security,3.45
 3027,chemicals,10.49
 3028,chemicals,10.49
-3029, petrochemicals,10.49
-3030, glass and gases,10.49
+3029,petrochemicals,10.49
+3030,glass and gases,10.49
 3031,manufacturing,10.49
 3032,information technology and services,2.45
 3033,medical devices,3.4
@@ -3221,7 +3120,7 @@ financial services",4.47
 3118,electronics,3.45
 3119,manufacturing,3.45
 3120,batteries,3.45
-3121, power storage equipment and generators,3.45
+3121,power storage equipment and generators,3.45
 3122,power conversion and protection equipment,3.45
 3123,medical devices and equipment,3.45
 3124,test and measurement equipment,3.45
@@ -3229,7 +3128,7 @@ financial services",4.47
 3126,software development and design,3.47
 3127,software,3.47
 3128,financial,3.47
-3129, legal and hr software,3.47
+3129,legal and hr software,3.47
 3130,investment banking,3.44
 3131,internet,10.46
 3132,grocery,10.46
@@ -3285,7 +3184,7 @@ financial services",4.47
 3182,its,3.46
 3183,sports,4.47
 3184,health,10.49
-3185, wellness and fitness,10.49
+3185,wellness and fitness,10.49
 3186,consumer goods,3.45
 3187,internet,3.44
 3188,information technology and services,3.46
@@ -3308,7 +3207,7 @@ financial services",4.47
 3205,philantropy,3.47
 3206,computer software,10.48
 3207,health,2.46
-3208, wellness and fitness,2.46
+3208,wellness and fitness,2.46
 3209,network security hardware and software,2.45
 3210,computer equipment and peripherals,2.45
 3211,manufacturing,2.45
@@ -3361,13 +3260,13 @@ financial services",4.47
 3258,computer software,3.42
 3259,telecommunications,3.47
 3260,health,3.47
-3261, wellness and fitness,3.47
+3261,wellness and fitness,3.47
 3262,financial services,3.47
 3263,biotechnology,10.48
 3264,internet,10.47
 3265,social network,10.47
 3266,health,3.42
-3267, wellness and fitness,3.42
+3267,wellness and fitness,3.42
 3268,financial services,4.44
 3269,internet,3.44
 3270,colleges and universities,3.4
@@ -3400,8 +3299,7 @@ financial services",4.47
 3297,computer software,3.47
 3298,software development and design,3.45
 3299,software,3.45
-3300,"computer games
-",10.49
+3300,computer games,10.49
 3301,business services,3.43
 3302,advertising and marketing,3.43
 3303,management consulting,3.43
@@ -3409,7 +3307,7 @@ financial services",4.47
 3305,software development and design,10.45
 3306,software,10.45
 3307,financial,10.45
-3308, legal and hr software,10.45
+3308,legal and hr software,10.45
 3309,telecommunications,10.49
 3310,compter software,3.47
 3311,logistics and supply chain,10.53
@@ -3431,9 +3329,9 @@ financial services",4.47
 3327,facilities management and commercial cleaning,3.42
 3328,business services,3.42
 3329,waste treatment,3.42
-3330, environmental services and recycling,3.42
+3330,environmental services and recycling,3.42
 3331,energy,3.42
-3332, utilities and waste treatment,3.42
+3332,utilities and waste treatment,3.42
 3333,insurance,3.47
 3334,computer software,4.43
 3335,software development and design,3.42
@@ -3447,7 +3345,7 @@ financial services",4.47
 3343,consumer electronics and computers,3.44
 3344,retail,3.44
 3345,batteries,3.44
-3346, power storage equipment and generators,3.44
+3346,power storage equipment and generators,3.44
 3347,electronic components,3.44
 3348,electronics,3.44
 3349,custom software and technical consulting,3.44
@@ -3536,7 +3434,7 @@ financial services",4.47
 3432,banking,3.44
 3433,information technology and services,4.42
 3434,internet service providers,2.45
-3435, website hosting and internet-related services,2.45
+3435,website hosting and internet-related services,2.45
 3436,telecommunications,2.45
 3437,custom software and technical consulting,2.45
 3438,software development and design,2.45
@@ -3596,7 +3494,7 @@ financial services",4.47
 3492,information technology and services,3.46
 3493,computer software,4.36
 3494,rail,2.45
-3495, bus and taxi,2.45
+3495,bus and taxi,2.45
 3496,transportation,2.45
 3497,computer software,3.49
 3498,banking,3.43
@@ -3616,11 +3514,9 @@ financial services",4.47
 3512,information technology and services,3.43
 3513,management consulting,10.49
 3514,archetechand planning,3.43
-3515,"
-internet",2.45
+3515,internet,2.45
 3516,marketing and advertising,4.47
 3517,consumer goods,3.46
-3518,/market and research,3.51
 3519,design,3.35
 3520,computer software,3.45
 3521,financial services,3.43
@@ -3652,7 +3548,7 @@ internet",2.45
 3547,software development and design,3.41
 3548,financial services,3.47
 3549,health,3.47
-3550, wellness and fitness,3.47
+3550,wellness and fitness,3.47
 3551,computer software,3.36
 3552,human resources,3.45
 3553,information technology and services,10.47
@@ -3670,7 +3566,7 @@ internet",2.45
 3565,water and water treatment,10.47
 3566,construction,10.47
 3567,energy,10.47
-3568, utilities and waste treatment,10.47
+3568,utilities and waste treatment,10.47
 3569,semiconductor and semiconductor equipment,10.47
 3570,electronics,10.47
 3571,information technology and services,3.46
@@ -3690,7 +3586,7 @@ internet",2.45
 3585,software,3.46
 3586,engineering software,3.46
 3587,financial,3.46
-3588, legal and hr software,3.46
+3588,legal and hr software,3.46
 3589,computer software,10.47
 3590,internet,3.45
 3591,finacial services,2.45
@@ -3710,7 +3606,7 @@ internet",2.45
 3605,water and water treatment,10.47
 3606,construction,10.47
 3607,energy,10.47
-3608, utilities and waste treatment,10.47
+3608,utilities and waste treatment,10.47
 3609,semiconductor and semiconductor equipment,10.47
 3610,electronics,10.47
 3611,software development and design,10.46
@@ -3725,7 +3621,7 @@ internet",2.45
 3620,software development and design,4.44
 3621,software,4.44
 3622,financial,4.44
-3623, legal and hr software,4.44
+3623,legal and hr software,4.44
 3624,accounting and accounting services,4.44
 3625,business services,4.44
 3626,engineering software,4.44
@@ -3738,7 +3634,7 @@ internet",2.45
 3633,medical devices and equipment,2.47
 3634,manufacturing,2.47
 3635,insurance,3.45
-3636,information technology consultancy activities ,3.49
+3636,information technology consultancy activities,3.49
 3637,computer software,2.45
 3638,financial services,3.45
 3639,hospitals and clinics,2.45
@@ -3752,8 +3648,7 @@ internet",2.45
 3647,computer software,3.45
 3648,computer software,10.47
 3649,marketing and advertising,3.46
-3650,"
-internet",3.43
+3650,internet,3.43
 3651,information services,10.47
 3652,music,10.49
 3653,restaurants,3.35
@@ -3777,7 +3672,7 @@ internet",3.43
 3671,storage and system management software,3.45
 3672,research,3.46
 3673,airlines,3.39
-3674, airports and air services,3.39
+3674,airports and air services,3.39
 3675,transportation,3.39
 3676,information technology and services,3.47
 3677,law enforcement,3.4
@@ -3800,8 +3695,7 @@ internet",3.43
 3694,information services,2.4
 3695,computer games,3.47
 3696,mobile applications,3.47
-3697,"internet
-",3.45
+3697,internet,3.45
 3698,computer software,3.41
 3699,information technology and services,3.46
 3700,electrical/electronic manufacturing,3.45
@@ -3852,12 +3746,10 @@ internet",3.43
 3745,computer software,10.46
 3746,music,3.44
 3747,music,3.46
-3748,"information technology and services
-",3.42
+3748,information technology and services,3.42
 3749,internet,3.45
 3750,financial services,3.45
-3751,"internet
-",10.46
+3751,internet,10.46
 3752,computer software,3.47
 3753,wholesale,3.42
 3754,san francisco bay area,3.45
@@ -3890,15 +3782,11 @@ internet",3.43
 3781,online media,10.47
 3782,information technology and services,10.48
 3783,computer software,3.42
-3784,"marketing and advertising
-",3.4
-3785,"information technology and services
-",3.41
+3784,marketing and advertising,3.4
+3785,information technology and services,3.41
 3786,higher education,3.45
-3787,"hospital and health care
-",3.45
-3788,"hospital and health care
-",3.44
+3787,hospital and health care,3.45
+3788,hospital and health care,3.44
 3789,online media,10.45
 3790,financial services,3.44
 3791,information technology and services,3.36
@@ -3918,12 +3806,12 @@ internet",3.43
 3805,restaurants,3.34
 3806,online media,10.45
 3807,search engine,3.43
-3808, identity management,3.43
-3809, seo,3.43
-3810, social media,3.43
-3811, advertising,3.43
-3812, local,3.43
-3813, mobile,3.43
+3808,identity management,3.43
+3809,seo,3.43
+3810,social media,3.43
+3811,advertising,3.43
+3812,local,3.43
+3813,mobile,3.43
 3814,internet,2.44
 3815,computer software,10.45
 3816,computer software,10.47
@@ -3940,8 +3828,7 @@ internet",3.43
 3827,computer software,3.38
 3828,computer networking,4.45
 3829,health,3.47
-3830," wellness and fitness
-",3.47
+3830,wellness and fitness,3.47
 3831,internet,3.39
 3832,wireless,3.43
 3833,internet,3.43
@@ -3956,15 +3843,12 @@ internet",3.43
 3842,airlines/aviation,10.44
 3843,food production,3.47
 3844,publishing,10.48
-3845,"information technology and services
-",3.41
+3845,information technology and services,3.41
 3846,religious institutions,10.45
 3847,university,3.44
 3848,information technology and services,10.47
-3849,"marketing and advertising
-",3.44
-3850,"management consulting
-",3.4
+3849,marketing and advertising,3.44
+3850,management consulting,3.4
 3851,computer software,3.33
 3852,computer software,10.46
 3853,internet,10.45
@@ -4050,24 +3934,20 @@ internet",3.43
 3933,computer hardware,3.4
 3934,information technology and services,3.4
 3935,pharmaceuticals,10.45
-3936,"computer software
-",3.37
+3936,computer software,3.37
 3937,computer software,3.43
 3938,internet,3.44
 3939,e-learning,10.48
-3940,"mental health care
-",3.44
-3941,publishing ,4.46
+3940,mental health care,3.44
+3941,publishing,4.46
 3942,entertainment,3.47
 3943,marketing and advertising,3.4
 3944,information technology and services,3.47
 3945,computer software,10.47
-3946,"information technology and services
-",3.4
+3946,information technology and services,3.4
 3947,publishing,3.47
 3948,media and internet,3.47
-3949,"transportation/trucking/railroad
-",3.45
+3949,transportation/trucking/railroad,3.45
 3950,search engines and internet portals,10.42
 3951,media and internet,10.42
 3952,airlines/aviation,3.47
@@ -4083,37 +3963,29 @@ internet",3.43
 3962,computer software,10.46
 3963,newspapers and news services,10.47
 3964,media and internet,10.47
-3965,"business supplies and equipment
-",3.44
+3965,business supplies and equipment,3.44
 3966,computer software,10.46
-3967,"hospital and health care
-",3.38
+3967,hospital and health care,3.38
 3968,oil and energy,3.45
 3969,information technology and services,10.36
-3970,"marketing and advertising
-",3.44
+3970,marketing and advertising,3.44
 3971,internet,10.49
 3972,computer games,10.54
-3973,"information technology and services
-",10.48
-3974,"information technology and services
-",3.37
+3973,information technology and services,10.48
+3974,information technology and services,3.37
 3975,social media,3.46
-3976, apps,3.46
-3977, dating,3.46
-3978, mobile,3.46
-3979,"information technology and services
-",3.45
+3976,apps,3.46
+3977,dating,3.46
+3978,mobile,3.46
+3979,information technology and services,3.45
 3980,computer software,3.47
 3981,internet,3.45
 3982,internet,3.43
-3983,"information technology and services
-",3.47
+3983,information technology and services,3.47
 3984,internet,3.46
 3985,internet,3.43
 3986,computer software,10.47
-3987,"financial services
-",10.47
+3987,financial services,10.47
 3988,computer software,3.43
 3989,internet,10.46
 3990,computer software,3.47
@@ -4122,7 +3994,7 @@ internet",3.43
 3993,online media,3.45
 3994,financial services,3.44
 3995,health,3.36
-3996, wellness and fitness,3.36
+3996,wellness and fitness,3.36
 3997,computer software,10.45
 3998,publishing,3.29
 3999,media and internet,3.29
@@ -4141,7 +4013,7 @@ internet",3.43
 4012,hospital and health care,10.46
 4013,retail,3.47
 4014,leisure,3.46
-4015, travel and tourism,3.46
+4015,travel and tourism,3.46
 4016,universities,10.47
 4017,marketing and advertising,3.44
 4018,financial services,3.47
@@ -4190,7 +4062,7 @@ internet",3.43
 4061,computer equipment and peripherals,2.42
 4062,telecommunications,2.42
 4063,internet service providers,2.42
-4064, website hosting and internet-related services,2.42
+4064,website hosting and internet-related services,2.42
 4065,computer software,3.47
 4066,computer network,8.46
 4067,internet,3.44
@@ -4253,7 +4125,7 @@ internet",3.43
 4124,water and water treatment,10.47
 4125,construction,10.47
 4126,energy,10.47
-4127, utilities and waste treatment,10.47
+4127,utilities and waste treatment,10.47
 4128,semiconductor and semiconductor equipment,10.47
 4129,electronics,10.47
 4130,banking,3.45
@@ -4315,7 +4187,7 @@ internet",3.43
 4186,computer equipment and peripherals,2.43
 4187,manufacturing,2.43
 4188,internet service providers,2.43
-4189, website hosting and internet-related services,2.43
+4189,website hosting and internet-related services,2.43
 4190,telecommunications,2.43
 4191,software development and design,3.48
 4192,software,3.48
@@ -4325,7 +4197,7 @@ internet",3.43
 4196,internet,10.47
 4197,airlines/aviation,3.44
 4198,leisure,2.43
-4199, travel and tourism,2.43
+4199,travel and tourism,2.43
 4200,software development and design,2.43
 4201,software,2.43
 4202,engineering software,2.43
@@ -4359,9 +4231,9 @@ internet",3.43
 4230,freight and logistics services,3.42
 4231,transportation,3.42
 4232,airlines,3.42
-4233, airports and air services,3.42
+4233,airports and air services,3.42
 4234,trucking,3.42
-4235, moving and storage,3.42
+4235,moving and storage,3.42
 4236,software development and design,3.45
 4237,software,3.45
 4238,finance,3.45
@@ -4374,7 +4246,7 @@ internet",3.43
 4245,manufacturing,4.45
 4246,computer storage equipment,4.45
 4247,internet service providers,4.45
-4248, website hosting and internet-related services,4.45
+4248,website hosting and internet-related services,4.45
 4249,business services,4.45
 4250,telecommunications,4.45
 4251,customer relationship management software(crm),4.45
@@ -4426,8 +4298,7 @@ internet",3.43
 4297,telecommunications,2.38
 4298,investment banking,4.42
 4299,finance,4.42
-4300,"computer software
-",10.47
+4300,computer software,10.47
 4301,computer software,3.47
 4302,marketing and advertising,3.4
 4303,telephony and wireless,3.42
@@ -4476,13 +4347,13 @@ internet",3.43
 4346,computer software,7.42
 4347,computer software,3.47
 4348,health,3.42
-4349, wellness and fitness,3.42
+4349,wellness and fitness,3.42
 4350,information technology and services,4.4
 4351,computer software,3.47
 4352,internet,2.46
 4353,internet,3.46
 4354,health,3.47
-4355, wellness and fitness,3.47
+4355,wellness and fitness,3.47
 4356,internet,3.48
 4357,information collection and delivery,4.36
 4358,media and internet,4.36
@@ -4531,8 +4402,8 @@ internet",3.43
 4401,industrial automation,2.46
 4402,chemicals,4.44
 4403,chemicals,4.44
-4404, petrochemicals,4.44
-4405, glass and gases,4.44
+4404,petrochemicals,4.44
+4405,glass and gases,4.44
 4406,manufacturing,4.44
 4407,financial services,4.42
 4408,financial services,3.47
@@ -4551,8 +4422,8 @@ internet",3.43
 4421,marketing and advertising,2.47
 4422,computer software,10.48
 4423,bachelor of business administration (b.b.a.),3.47
-4424, management information systems,3.47
-4425, general,3.47
+4424,management information systems,3.47
+4425,general,3.47
 4426,computer software,10.51
 4427,custom software and technical consulting,3.45
 4428,software,3.45
@@ -4643,7 +4514,7 @@ internet",3.43
 4513,consumer electronics,10.49
 4514,consumer goods,10.49
 4515,internet service providers,10.49
-4516, website hosting and internet-related services,10.49
+4516,website hosting and internet-related services,10.49
 4517,business services,10.49
 4518,telecommunications,10.49
 4519,content and collaboration software,10.49
@@ -4656,7 +4527,7 @@ internet",3.43
 4526,consumer goods,8.36
 4527,computer software,4.38
 4528,internet,10.46
-4529,medical devices ,3.42
+4529,medical devices,3.42
 4530,marketing and advertising,3.45
 4531,printing,3.47
 4532,retail,10.49
@@ -4672,7 +4543,7 @@ internet",3.43
 4542,computer software,3.47
 4543,computer sonftware,3.48
 4544,health,3.46
-4545, wellness and fitness,3.46
+4545,wellness and fitness,3.46
 4546,software development and design,3.47
 4547,software,3.47
 4548,information and document management,3.47
@@ -4728,7 +4599,7 @@ internet",3.43
 4598,software,3.43
 4599,engineering software,3.43
 4600,financial,3.43
-4601, legal and hr software,3.43
+4601,legal and hr software,3.43
 4602,computer software,4.47
 4603,manufacturing,3.46
 4604,telecommunication equipment,3.46
@@ -4799,8 +4670,7 @@ internet",3.43
 4669,internet,10.47
 4670,custom software and technical consulting,3.46
 4671,software,3.46
-4672,"information technology and services
-",10.46
+4672,information technology and services,10.46
 4673,internet,3.45
 4674,hospital and health care,4.41
 4675,internet,3.43
@@ -4809,8 +4679,7 @@ internet",3.43
 4678,engineering software,10.47
 4679,business intelligence software(bi),10.47
 4680,enterprise resource planning software(erp),10.47
-4681,"computer software
-",3.42
+4681,computer software,3.42
 4682,computer games,3.46
 4683,electrical/electronic manufacturing,3.48
 4684,online video platform operator,10.46
@@ -4847,7 +4716,7 @@ internet",3.43
 4715,healthcare,3.48
 4716,retail,3.48
 4717,energy,3.48
-4718, utilities and waste treatment,3.48
+4718,utilities and waste treatment,3.48
 4719,oil and energy,4.39
 4720,online media,3.45
 4721,sports,10.47
@@ -4929,7 +4798,7 @@ internet",3.43
 4797,software,10.5
 4798,content and collaboration software,10.5
 4799,internet service providers,10.5
-4800, website hosting and internet-related services,10.5
+4800,website hosting and internet-related services,10.5
 4801,publishing,10.5
 4802,telecommunications,10.5
 4803,events services,3.42
@@ -5048,7 +4917,7 @@ internet",3.43
 4916,building materials,3.46
 4917,civil engineering,10.46
 4918,leisure,3.47
-4919, travel and tourism,3.47
+4919,travel and tourism,3.47
 4920,computer software,3.24
 4921,computer software,10.41
 4922,hospital and health care,3.38
@@ -5065,8 +4934,7 @@ internet",3.43
 4933,information services,10.44
 4934,information technology and services,4.43
 4935,graphic design,3.37
-4936,"financial services
-",10.49
+4936,financial services,10.49
 4937,computer software,3.47
 4938,marketing and advertising,3.42
 4939,information technologies and services,3.47
@@ -5082,10 +4950,8 @@ internet",3.43
 4949,computer softwareq,3.47
 4950,computer software,3.37
 4951,libraries,3.42
-4952,"staffing and recruiting
-",3.44
-4953,"civic and social organization
-",3.47
+4952,staffing and recruiting,3.44
+4953,civic and social organization,3.47
 4954,mechanical or industrial engineering,10.47
 4955,computer software,3.47
 4956,information technology and services,3.43
@@ -5097,8 +4963,8 @@ internet",3.43
 4962,primary/secondary education,10.47
 4963,chemicals,3.47
 4964,chemicals,3.47
-4965, petrochemicals,3.47
-4966, glass and gases,3.47
+4965,petrochemicals,3.47
+4966,glass and gases,3.47
 4967,manufacturing,3.47
 4968,information technology and services,3.43
 4969,medical devices,3.41
@@ -5146,7 +5012,7 @@ internet",3.43
 5011,financial services,10.49
 5012,internet,10.46
 5013,internet service providers,10.51
-5014, website hosting and internet-related services,10.51
+5014,website hosting and internet-related services,10.51
 5015,telecommunications,10.51
 5016,custom software and technical consulting,10.51
 5017,software development and design,10.51
@@ -5154,37 +5020,30 @@ internet",3.43
 5019,software,10.51
 5020,search engines and internet portals,10.51
 5021,media and internet,10.51
-5022,"financial services
-",10.45
+5022,financial services,10.45
 5023,biotechnology,3.43
 5024,sports,3.45
 5025,computer software,3.43
 5026,information technology and services,10.46
 5027,music,10.49
-5028,"computer software
-",3.43
+5028,computer software,3.43
 5029,fiancial services,10.6
 5030,computer software,10.47
 5031,computer software,3.26
 5032,oil and energy,10.47
 5033,internet,3.47
-5034,"marketing and advertising
-",3.45
-5035,"computer software
-",3.46
-5036,"internet
-",10.81
+5034,marketing and advertising,3.45
+5035,computer software,3.46
+5036,internet,10.81
 5037,computer networking,10.34
 5038,computer software,3.39
 5039,logistics and supply chain,3.43
 5040,financial services,10.46
 5041,internet,3.42
 5042,printing,3.43
-5043,"insurance
-",3.42
+5043,insurance,3.42
 5044,marketing and advertising,3.44
-5045,"computer software
-",3.35
+5045,computer software,3.35
 5046,internet,3.47
 5047,electronic manufacturing,3.44
 5048,publishing,10.46
@@ -5194,8 +5053,7 @@ internet",3.43
 5052,internet,3.47
 5053,colleges and universities,10.49
 5054,education,10.49
-5055,"real estate
-",3.46
+5055,real estate,3.46
 5056,media production,10.47
 5057,financial services,3.45
 5058,retail,3.45
@@ -5205,7 +5063,7 @@ internet",3.43
 5062,computer software,3.2
 5063,customer service,3.46
 5064,health,3.44
-5065, wellness and fitness,3.44
+5065,wellness and fitness,3.44
 5066,retail,10.48
 5067,telecommunications,10.46
 5068,consumer services,3.44
@@ -5214,7 +5072,7 @@ internet",3.43
 5071,computer software,3.44
 5072,computer software,3.46
 5073,health,3.46
-5074, wellness and fitness,3.46
+5074,wellness and fitness,3.46
 5075,internet,10.48
 5076,computer software,3.44
 5077,software development and design,3.46
@@ -5237,7 +5095,7 @@ internet",3.43
 5094,computer software,10.46
 5095,internet,10.46
 5096,leisure,3.39
-5097, travel and tourism,3.39
+5097,travel and tourism,3.39
 5098,computer gamess,10.48
 5099,information technology and services,3.43
 5100,computer software,3.44
@@ -5305,16 +5163,14 @@ internet",3.43
 5162,computer software,10.45
 5163,music,3.44
 5164,health,10.47
-5165, wellness and fitness,10.47
-5166,"computer games
-",3.41
+5165,wellness and fitness,10.47
+5166,computer games,3.41
 5167,cable and satellite,10.48
 5168,telecommunications,10.48
 5169,financial services,3.48
 5170,computer software,10.47
 5171,computer software,3.42
-5172,"
-financial services",10.48
+5172,financial services,10.48
 5173,computer software,10.47
 5174,internet,3.43
 5175,e-learning,10.46
@@ -5354,7 +5210,7 @@ financial services",10.48
 5209,software development and design,3.37
 5210,software,3.37
 5211,financial,3.37
-5212, legal and hr software,3.37
+5212,legal and hr software,3.37
 5213,accounting and accounting services,3.37
 5214,business services,3.37
 5215,engineering software,3.37
@@ -5404,7 +5260,7 @@ financial services",10.48
 5259,education,3.47
 5260,computer software,3.45
 5261,health,10.47
-5262, wellness and fitness,10.47
+5262,wellness and fitness,10.47
 5263,computer games,10.48
 5264,computer software,10.47
 5265,computer software,4.41
@@ -5414,7 +5270,7 @@ financial services",10.48
 5269,software development and design,10.48
 5270,software,10.48
 5271,financial,10.48
-5272, legal and hr software,10.48
+5272,legal and hr software,10.48
 5273,accounting and accounting services,10.48
 5274,business services,10.48
 5275,engineering software,10.48
@@ -5477,7 +5333,7 @@ financial services",10.48
 5332,manufacturing,10.42
 5333,information technology and services,3.47
 5334,health,3.46
-5335, wellness and fitness,3.46
+5335,wellness and fitness,3.46
 5336,human resources and staffing,10.48
 5337,business services,10.48
 5338,accounting and accounting services,10.48
@@ -5492,7 +5348,7 @@ financial services",10.48
 5347,automotive,3.43
 5348,internet,10.46
 5349,energy,3.4
-5350, utilities and waste treatment,3.4
+5350,utilities and waste treatment,3.4
 5351,internet,3.36
 5352,internet,10.44
 5353,telephony and wireless,3.46
@@ -5501,12 +5357,11 @@ financial services",10.48
 5356,software,3.46
 5357,search engines and internet portals,3.41
 5358,media and internet,3.41
-5359,"internet
-",10.47
+5359,internet,10.47
 5360,online media,3.41
 5361,marketing and advertising,10.47
 5362,health,4.47
-5363, wellness and fitness,4.47
+5363,wellness and fitness,4.47
 5364,computer software,3.44
 5365,information technology and services,10.48
 5366,computer software,3.44
@@ -5534,12 +5389,12 @@ financial services",10.48
 5388,food and beverages,10.5
 5389,marketing and advertising,3.45
 5390,oil and gas,4.44
-5391, petroleum,4.44
-5392, natural gas,4.44
-5393, b2c,4.44
-5394, enterprise,4.44
-5395, b2b,4.44
-5396, energy,4.44
+5391,petroleum,4.44
+5392,natural gas,4.44
+5393,b2c,4.44
+5394,enterprise,4.44
+5395,b2b,4.44
+5396,energy,4.44
 5397,telemunication,10.47
 5398,computer software,10.49
 5399,computer software,3.46
@@ -5661,7 +5516,7 @@ financial services",10.48
 5515,financial services,10.47
 5516,internet,10.48
 5517,health,3.39
-5518, wellness and fitness,3.39
+5518,wellness and fitness,3.39
 5519,internet,10.45
 5520,computer software,3.4
 5521,information technology and services,3.47
@@ -5741,7 +5596,7 @@ financial services",10.48
 5595,computer software,3.43
 5596,computer software,3.5
 5597,energy,10.45
-5598, utilities and waste treatment,10.45
+5598,utilities and waste treatment,10.45
 5599,commercial and residential construction,10.45
 5600,construction,10.45
 5601,,10.45
@@ -5778,8 +5633,7 @@ financial services",10.48
 5632,enterprise resource planning software(erp),10.48
 5633,program development,3.41
 5634,broadcast media,3.46
-5635,"internet
-",10.47
+5635,internet,10.47
 5636,online media,3.47
 5637,education management,3.47
 5638,information technology and services,3.39
@@ -5824,7 +5678,7 @@ financial services",10.48
 5677,internet,3.32
 5678,real estate,3.45
 5679,health,3.44
-5680, wellness and fitness,3.44
+5680,wellness and fitness,3.44
 5681,financial services,10.47
 5682,engineering software,10.48
 5683,software development and design,10.48
@@ -5841,8 +5695,7 @@ financial services",10.48
 5694,computer software,10.48
 5695,executive office,3.44
 5696,computer software,10.51
-5697,"marketing and advertising
-",10.47
+5697,marketing and advertising,10.47
 5698,charitable organizations and foundations,10.47
 5699,organizations,10.47
 5700,publishing,10.47
@@ -5934,11 +5787,10 @@ financial services",10.48
 5786,utilities,10.47
 5787,marketing and advertising,3.38
 5788,education management,3.46
-5789, information technology and services,3.48
+5789,information technology and services,3.48
 5790,retail,10.49
 5791,research,3.47
-5792,"education management
-",3.43
+5792,education management,3.43
 5793,entertainment,3.46
 5794,computer hardware,3.4
 5795,computer software,10.48
@@ -5983,7 +5835,7 @@ financial services",10.48
 5834,construction,4.4
 5835,commercial and residential construction,4.4
 5836,architecture,4.4
-5837, engineering and design,4.4
+5837,engineering and design,4.4
 5838,computer software,3.42
 5839,internet,10.48
 5840,marketing and advertising,10.47
@@ -5992,7 +5844,7 @@ financial services",10.48
 5843,information technology and services,3.4
 5844,telecommunications,2.45
 5845,internet,3.44
-5846,educational software ,10.48
+5846,educational software,10.48
 5847,computer software,3.13
 5848,computer software,3.43
 5849,telecommunications,10.41
@@ -6019,7 +5871,7 @@ financial services",10.48
 5870,internet,10.31
 5871,internet,3.4
 5872,leisure,3.17
-5873, travel and tourism,3.17
+5873,travel and tourism,3.17
 5874,textiles,10.48
 5875,information technology and services,10.45
 5876,hospital and health care,3.43
@@ -6040,7 +5892,7 @@ financial services",10.48
 5891,manufacturing,3.46
 5892,metals and mining,3.46
 5893,energy,3.46
-5894, utilities and waste treatment,3.46
+5894,utilities and waste treatment,3.46
 5895,internet,3.43
 5896,software development and design,4.48
 5897,software,4.48
@@ -6057,7 +5909,7 @@ financial services",10.48
 5908,computer games,10.47
 5909,computer software,10.55
 5910,health,10.45
-5911, wellness and fitness,10.45
+5911,wellness and fitness,10.45
 5912,information technology and services,2.44
 5913,legal services,3.43
 5914,religious institutions,3.44
@@ -6069,7 +5921,7 @@ financial services",10.48
 5920,information technology and services,3.45
 5921,computer software,10.33
 5922,b2b,10.46
-5923, professional services,10.46
+5923,professional services,10.46
 5924,retail,10.45
 5925,insurance,3.45
 5926,software development and design,4.44
@@ -6104,15 +5956,14 @@ financial services",10.48
 5955,consumer electronics,10.49
 5956,design,3.43
 5957,publishing,3.44
-5958,"hospital and health care
-",10.4
+5958,hospital and health care,10.4
 5959,consumer goods,3.45
 5960,internet,3.47
 5961,real state,3.44
 5962,internet,3.38
 5963,human resource,3.13
 5964,crowdsourcing,10.47
-5965, recruiti,10.47
+5965,recruiti,10.47
 5966,financial services,10.3
 5967,retail,3.32
 5968,computer networking,10.49
@@ -6148,8 +5999,8 @@ financial services",10.48
 5998,information technology and services,3.45
 5999,internet,3.45
 6000,internet,10.45
-6001, data visualization,10.45
-6002, public safety,10.45
+6001,data visualization,10.45
+6002,public safety,10.45
 6003,software development and design,3.47
 6004,software,3.47
 6005,information technology and services,3.44
@@ -6162,7 +6013,7 @@ financial services",10.48
 6012,information technology and services,10.47
 6013,computer software,3.47
 6014,leisure,3.45
-6015, travel and tourism,3.45
+6015,travel and tourism,3.45
 6016,computer software,10.49
 6017,management consulting,10.43
 6018,insurance,10.48
