@@ -1,8 +1,13 @@
 .DS_Store
+df_ind_add_cols.csv
+df_ind_column_names.csv
 df_ind_crosstab.csv
 df_ind_initial.csv
 df_ind_lower.csv
+df_ind_no_http.csv
 df_ind_no_na.csv
+df_ind_no_slash.csv
 df_ind_no_x000D.csv
 df_ind_no&.csv
-df_ind_pivot.csv
+df_ind_split_comma.csv
+df_ind_stripped_column.csv
